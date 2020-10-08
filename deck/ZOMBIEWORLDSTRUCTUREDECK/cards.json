@@ -1,0 +1,377 @@
+{
+    "date": "12/10/2019 19:30:24",
+    "title": "ZOMBIE WORLD STRUCTURE DECK",
+    "card": [
+        {
+            "name": "Red-Eyes Zombie Dragon",
+            "type": "Ultra Rare",
+            "attribute": "DARK",
+            "rank": "Level 7",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "2000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can Tribute Summon this card in Attack Position by Tributing 1 Zombie monster. When this card destroys a Zombie monster by battle and sends it to the GY: You can Special Summon that Zombie monster.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7854"
+        },
+        {
+            "name": "Malevolent Mech - Goku En",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 6",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "1400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Send it to the GY, then take damage equal to its original ATK in the GY. This card must be the only Zombie monster on the field to activate and to resolve this effect.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7855"
+        },
+        {
+            "name": "Paladin of the Cursed Dragon",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "1900",
+            "def": "1200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn: You can target 1 Level 4 or lower Zombie monster in your opponent's GY, that was destroyed by battle; Special Summon that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7856"
+        },
+        {
+            "name": "Gernia",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "1300",
+            "def": "1200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDuring your next Standby Phase, after this face-up card you control was destroyed and sent to your Graveyard by an opponent's card effect: Special Summon it.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5483"
+        },
+        {
+            "name": "Patrician of Darkness",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "2000",
+            "def": "1400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou choose the attack targets for your opponent's attacks.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5020"
+        },
+        {
+            "name": "Royal Keeper",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "1600",
+            "def": "1700",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, it gains 300 ATK and DEF until the end of the turn. (If attacked, this effect resolves after damage calculation.)\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5415"
+        },
+        {
+            "name": "Pyramid Turtle",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "1200",
+            "def": "1400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5423"
+        },
+        {
+            "name": "Master Kyonshee",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Zombie",
+                "Normal"
+            ],
+            "atk": "1750",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tA wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5506"
+        },
+        {
+            "name": "Spirit Reaper",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "300",
+            "def": "200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts Battle Damage to your opponent by a direct attack: Discard 1 random card from their hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5526"
+        },
+        {
+            "name": "Getsu Fuhma",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5901"
+        },
+        {
+            "name": "Ryu Kokki",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 6",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "2000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAt the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5902"
+        },
+        {
+            "name": "Regenerating Mummy",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is sent from your hand to your Graveyard by an opponent's card effect: Return this card to the hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6041"
+        },
+        {
+            "name": "Des Lacooda",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "500",
+            "def": "600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5427"
+        },
+        {
+            "name": "Marionette Mite",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Insect",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can discard this card to the GY, then target 1 Fiend or Zombie monster your opponent controls; take control of that target until the End Phase.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6979"
+        },
+        {
+            "name": "Plague Wolf",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn: You can make this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7150"
+        },
+        {
+            "name": "Zombie Master",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "0",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie monster in either GY; Special Summon that target. This monster must be face-up on the field to activate and to resolve this effect.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7215"
+        },
+        {
+            "name": "Zombie World",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAll monsters on the field and in the GYs become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7857"
+        },
+        {
+            "name": "Spell Shattering Arrow",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDestroy as many face-up Spell Cards your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5290"
+        },
+        {
+            "name": "Cold Wave",
+            "type": "Forbidden",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5127"
+        },
+        {
+            "name": "Magical Stone Excavation",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDiscard 2 cards, then target 1 Spell in your GY; add it to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5688"
+        },
+        {
+            "name": "Card of Safe Return",
+            "type": "Forbidden",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen a monster is Special Summoned from your Graveyard, you can draw 1 card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5123"
+        },
+        {
+            "name": "Creature Swap",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tEach player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5162"
+        },
+        {
+            "name": "Book of Life",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5430"
+        },
+        {
+            "name": "Call of the Mummy",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn: You can Special Summon 1 Zombie monster from your hand. You must control no monsters to activate and to resolve this effect.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5435"
+        },
+        {
+            "name": "Terraforming",
+            "type": "Limited",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAdd 1 Field Spell from your Deck to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5537"
+        },
+        {
+            "name": "Pot of Avarice",
+            "type": "Forbidden",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 5 monsters in your Graveyard; shuffle all 5 into the Deck, then draw 2 cards.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511"
+        },
+        {
+            "name": "Shrink",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5355"
+        },
+        {
+            "name": "Field Barrier",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tField Spell Cards on the field cannot be destroyed. Neither player can activate a new Field Spell Card. You can only control 1 \"Field Barrier\".\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7127"
+        },
+        {
+            "name": "Soul Taker",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5743"
+        },
+        {
+            "name": "Ribbon of Rebirth",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDuring the End Phase, if the equipped monster was destroyed by battle and sent to the Graveyard this turn: Special Summon it from the Graveyard to your side of the field.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7634"
+        },
+        {
+            "name": "Card Destruction",
+            "type": "Limited",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tBoth players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4821"
+        },
+        {
+            "name": "Imperial Iron Wall",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tNeither player can banish cards.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7858"
+        },
+        {
+            "name": "Dust Tornado",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4988"
+        },
+        {
+            "name": "Bottomless Trap Hole",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5400"
+        },
+        {
+            "name": "Tutan Mask",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen a Spell/Trap Card is activated that targets exactly 1 Zombie-Type monster on the field (and no other cards): Negate the activation, and if you do, destroy it.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5438"
+        },
+        {
+            "name": "Waboku",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4886"
+        },
+        {
+            "name": "Magical Arm Shield",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen your opponent declares an attack while you control a monster: Target 1 face-up monster your opponent controls, except the attacking monster; take control of that target until the end of the Battle Phase, and if you do, it is attacked instead, and you proceed to damage calculation.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4834"
+        }
+    ]
+}

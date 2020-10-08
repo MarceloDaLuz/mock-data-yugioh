@@ -1,0 +1,1168 @@
+{
+    "date": "12/10/2019 19:28:00",
+    "title": "DARK CRISIS",
+    "card": [
+        {
+            "name": "Vampire Lord",
+            "type": "Secret Rare",
+            "attribute": "DARK",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "2000",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf this card inflicts battle damage to your opponent: Declare 1 type of card (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. Once per turn, during your next Standby Phase after this card in your possession was destroyed and sent to your GY by an opponent's card effect: Special Summon this card from the GY.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5410"
+        },
+        {
+            "name": "Battle Footballer",
+            "type": "Normal",
+            "attribute": "FIRE",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Machine",
+                "Normal"
+            ],
+            "atk": "1000",
+            "def": "2100",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tA cyborg with high defense power. Originally it was invented for a football machine.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5702"
+        },
+        {
+            "name": "Nin-Ken Dog",
+            "type": "Normal",
+            "attribute": "WIND",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Beast-Warrior",
+                "Normal"
+            ],
+            "atk": "1800",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tA Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5704"
+        },
+        {
+            "name": "Acrobat Monkey",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Machine",
+                "Normal"
+            ],
+            "atk": "1000",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAn autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5705"
+        },
+        {
+            "name": "Arsenal Summoner",
+            "type": "Normal",
+            "attribute": "WIND",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Spellcaster",
+                "Effect"
+            ],
+            "atk": "1600",
+            "def": "1600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tFLIP: Add 1 \"Guardian\" card from your Deck to your hand, except \"Celtic Guardian\", \"Winged Dragon, Guardian of the Fortress #1\", \"Winged Dragon, Guardian of the Fortress #2\", \"Guardian of the Labyrinth\", or \"The Reliable Guardian\".\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5703"
+        },
+        {
+            "name": "Guardian Elma",
+            "type": "Normal",
+            "attribute": "WIND",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Fairy",
+                "Effect"
+            ],
+            "atk": "1300",
+            "def": "1200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Summoned unless you control a face-up \"Butterfly Dagger - Elma\". When this card is Normal or Special Summoned: You can target 1 appropriate Equip Spell Card in your Graveyard; equip that target to this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5706"
+        },
+        {
+            "name": "Guardian Ceal",
+            "type": "Ultra Rare",
+            "attribute": "FIRE",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Pyro",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Summoned unless you control a face-up \"Shooting Star Bow - Ceal\". You can send 1 Equip Spell Card you control that is equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5707"
+        },
+        {
+            "name": "Guardian Grarl",
+            "type": "Ultra Rare",
+            "attribute": "EARTH",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Dinosaur",
+                "Effect"
+            ],
+            "atk": "2500",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Summoned unless you control a face-up \"Gravity Axe - Grarl\". If this is the only card in your hand, you can Special Summon it (from your hand).\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5708"
+        },
+        {
+            "name": "Guardian Baou",
+            "type": "Rare",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "800",
+            "def": "400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Summoned unless you control a face-up \"Wicked-Breaking Flamberge - Baou\". When this card destroys an opponent's monster by battle and sends it to the Graveyard: It gains 1000 ATK. Negate the effects of monsters destroyed by battle with this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5709"
+        },
+        {
+            "name": "Guardian Kay'est",
+            "type": "Normal",
+            "attribute": "WATER",
+            "rank": "Level 4",
+            "species_and_others": [
+                "SeaSerpent",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Summoned unless you control a face-up \"Rod of Silence - Kay'est\". This card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5710"
+        },
+        {
+            "name": "Guardian Tryce",
+            "type": "Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Thunder",
+                "Effect"
+            ],
+            "atk": "1900",
+            "def": "1700",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Summoned unless you control a face-up \"Twin Swords of Flashing Light - Tryce\". When this card is destroyed and sent to the Graveyard: Special Summon the monster from the Graveyard that was used for its Tribute Summon.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5711"
+        },
+        {
+            "name": "Cyber Raider",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "1400",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is Summoned: Activate 1 of these effects.●Target 1 Equip Card equipped to a monster on the field; destroy that target.●Target 1 Equip Card equipped to a monster on the field; equip that target to this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4760"
+        },
+        {
+            "name": "Reflect Bounder",
+            "type": "Ultra Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tBefore damage calculation, if this card is being attacked by an opponent's monster, and was in face-up Attack Position at the start of the Damage Step: Inflict damage to your opponent equal to the attacking monster's ATK. If you do, after damage calculation: Destroy this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4762"
+        },
+        {
+            "name": "Little-Winguard",
+            "type": "Normal",
+            "attribute": "WIND",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1400",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn, during your End Phase: You can change the battle position of this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4771"
+        },
+        {
+            "name": "Des Feral Imp",
+            "type": "Rare",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Reptile",
+                "Flip",
+                "Effect"
+            ],
+            "atk": "1600",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tFLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5359"
+        },
+        {
+            "name": "Different Dimension Dragon",
+            "type": "Super Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Dragon",
+                "Effect"
+            ],
+            "atk": "1200",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card cannot be destroyed by the effect of a Spell or Trap Card that does not target it. This card cannot be destroyed by battle with a monster that has 1900 ATK or less.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5696"
+        },
+        {
+            "name": "Shinato, King of a Higher Plane",
+            "type": "Ultra Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 8",
+            "species_and_others": [
+                "Fairy",
+                "Ritual",
+                "Effect"
+            ],
+            "atk": "3300",
+            "def": "3000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card can only be Ritual Summoned with the Ritual Spell Card, \"Shinato's Ark\". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand. When this card destroys a Defense Position monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the original ATK of the destroyed monster.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5697"
+        },
+        {
+            "name": "Dark Flare Knight",
+            "type": "Super Rare",
+            "attribute": "DARK",
+            "rank": "Level 6",
+            "species_and_others": [
+                "Warrior",
+                "Fusion",
+                "Effect"
+            ],
+            "atk": "2200",
+            "def": "800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t\"Dark Magician\" + \"Flame Swordsman\"You take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 \"Mirage Knight\" from your hand or Deck.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5698"
+        },
+        {
+            "name": "Mirage Knight",
+            "type": "Super Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 8",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "2800",
+            "def": "2000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Normal Summoned/Set. Must be Special Summoned by \"Dark Flare Knight\" and cannot be Special Summoned by other ways. During damage calculation only, this card gains ATK equal to the original ATK of the opponent's monster it is battling. During the End Phase of a turn this card attacked or was attacked: Banish this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5699"
+        },
+        {
+            "name": "Berserk Dragon",
+            "type": "Super Rare",
+            "attribute": "DARK",
+            "rank": "Level 8",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "3500",
+            "def": "0",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Normal Summoned/Set. Must be Special Summoned with \"A Deal with Dark Ruler\" and cannot be Special Summoned by other ways. This card can attack all monsters your opponent controls once each. During each of your End Phases, this card loses 500 ATK.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5700"
+        },
+        {
+            "name": "Exodia Necross",
+            "type": "Ultra Rare",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Spellcaster",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "0",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Normal Summoned/Set. Must be Special Summoned with \"Contract with Exodia\", and cannot be Special Summoned by other ways. Cannot be destroyed by battle or Spell/Trap effect. Once per turn, during your Standby Phase: This card gains 500 ATK. Destroy this card unless all 5 of these cards are in your Graveyard - \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\" and \"Left Leg of the Forbidden One\".\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5701"
+        },
+        {
+            "name": "Gyaku-Gire Panda",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Beast",
+                "Effect"
+            ],
+            "atk": "800",
+            "def": "1600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIncrease the ATK of this card by 500 points for each monster on your opponent's side of the field. When this card attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5713"
+        },
+        {
+            "name": "Blindly Loyal Goblin",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAs long as this card remains face-up on the field, control of this card cannot switch.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5714"
+        },
+        {
+            "name": "Despair from the Dark",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 8",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "2800",
+            "def": "3000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is sent from your hand or Deck to your Graveyard by an opponent's card effect: Special Summon this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5715"
+        },
+        {
+            "name": "Maju Garzett",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 7",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "def": "0",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5716"
+        },
+        {
+            "name": "Fear from the Dark",
+            "type": "Rare",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Zombie",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is sent from your hand or Deck to your Graveyard by an opponent's card effect: Special Summon this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5717"
+        },
+        {
+            "name": "Dark Scorpion - Chick the Yellow",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:●Target 1 card on the field; return that target to the hand.●Look at the top card of their Deck, then return it to the top or bottom of the Deck.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5718"
+        },
+        {
+            "name": "D.D. Warrior Lady",
+            "type": "Super Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1500",
+            "def": "1600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAfter damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5719"
+        },
+        {
+            "name": "Thousand Needles",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Beast",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this Defense Position card is attacked and if the DEF of this card is higher than the ATK of the attacking monster, destroy the attacking monster at the end of the Damage Step.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5720"
+        },
+        {
+            "name": "Shinato's Ark",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card is used to Ritual Summon \"Shinato, King of a Higher Plane\". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5721"
+        },
+        {
+            "name": "A Deal with Dark Ruler",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t(This card is always treated as an \"Archfiend\" card.)If a Level 8 or higher monster under your control was sent to the Graveyard this turn: Special Summon 1 \"Berserk Dragon\" from your hand or Deck.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5722"
+        },
+        {
+            "name": "Contract with Exodia",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf you have all 5 of \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\", and \"Left Leg of the Forbidden One\" in your Graveyard: Special Summon 1 \"Exodia Necross\" from your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5723"
+        },
+        {
+            "name": "Butterfly Dagger - Elma",
+            "type": "Super Rare",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe equipped monster gains 300 ATK. When this card is destroyed and sent to the Graveyard while equipped: You can return this card to the hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5724"
+        },
+        {
+            "name": "Shooting Star Bow - Ceal",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe equipped monster loses 1000 ATK, but it can attack your opponent directly.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5725"
+        },
+        {
+            "name": "Gravity Axe - Grarl",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5726"
+        },
+        {
+            "name": "Wicked-Breaking Flamberge - Baou",
+            "type": "Rare",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSend 1 card from your hand to the GY, then target 1 monster on the field; equip this card to that target. It gains 500 ATK. Negate the effects of opponent's monsters destroyed by battle with the equipped monster.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5727"
+        },
+        {
+            "name": "Rod of Silence - Kay'est",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe equipped monster gains 500 DEF. Negate other Spell effects that target the equipped monster, and if you do, destroy that Spell Card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5728"
+        },
+        {
+            "name": "Twin Swords of Flashing Light - Tryce",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSend 1 card from your hand to the Graveyard; equip this card to a monster. It loses 500 ATK, but it can make a second attack during each Battle Phase.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5729"
+        },
+        {
+            "name": "Precious Cards from Beyond",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen you Tribute Summon a monster using 2 or more Tributes: Draw 2 cards.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5730"
+        },
+        {
+            "name": "Rod of the Mind's Eye",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf a monster equipped with this card inflicts Battle Damage to your opponent, the damage becomes 1000 points.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5731"
+        },
+        {
+            "name": "Fairy of the Spring",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 Equip Spell Card in your Graveyard; add that target to your hand. That Equip Spell Card cannot be activated this turn.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5732"
+        },
+        {
+            "name": "Token Thanksgiving",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDestroy all tokens on the field. Increase your Life Points by the number of tokens destroyed x 800 points.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5733"
+        },
+        {
+            "name": "Morale Boost",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tEach time a player equips an Equip Spell Card, increase the Life Points of the controller of that Equip Spell Card by 1000 points. Each time an Equip Spell Card is removed from the field, the controller of that Equip Spell Card takes 1000 points of damage.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5734"
+        },
+        {
+            "name": "Non-Spellcasting Area",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAll face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5735"
+        },
+        {
+            "name": "Different Dimension Gate",
+            "type": "Rare",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate this card by targeting 1 monster on each side of the field; banish those targets. When this card is destroyed and sent to the Graveyard: Return those banished monsters to the field in the same battle positions they were in.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5736"
+        },
+        {
+            "name": "Final Attack Orders",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAll face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5627"
+        },
+        {
+            "name": "Staunch Defender",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can only activate this card when your opponent declares an attack. Select 1 face-up monster on your side of the field. During this turn, your opponent can only designate the selected monster as an attack target and your opponent must attack the selected monster with all face-up monsters.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5737"
+        },
+        {
+            "name": "Ojama Trio",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSpecial Summon 3 \"Ojama Tokens\" (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) to your opponent's field in Defense Position. They cannot be Tributed for a Tribute Summon, and each time 1 is destroyed, its controller takes 300 damage.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5738"
+        },
+        {
+            "name": "Arsenal Robber",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYour opponent selects 1 Equip Spell Card from his/her Deck and sends it to the Graveyard.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5739"
+        },
+        {
+            "name": "Skill Drain",
+            "type": "Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate by paying 1000 Life Points. The effects of all face-up monsters on the field are negated while those monsters are face-up on the field (but their effects can still be activated).\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5740"
+        },
+        {
+            "name": "Really Eternal Rest",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDestroy all monsters equipped with an Equip Card(s).\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5741"
+        },
+        {
+            "name": "Kaiser Glider",
+            "type": "Ultra Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 6",
+            "species_and_others": [
+                "Dragon",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "2200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be destroyed by battle with a monster that has the same ATK. If this card is destroyed and sent to the Graveyard: Target 1 monster on the field; return that target to the hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5353"
+        },
+        {
+            "name": "Interdimensional Matter Transporter",
+            "type": "Ultra Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 face-up monster you control; banish that target until the End Phase.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5560"
+        },
+        {
+            "name": "Cost Down",
+            "type": "Ultra Rare",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDiscard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5575"
+        },
+        {
+            "name": "Gagagigo",
+            "type": "Normal",
+            "attribute": "WATER",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Reptile",
+                "Normal"
+            ],
+            "atk": "1850",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis young evildoer used to have an evil heart, but by meeting a special person, he discovered justice.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5759"
+        },
+        {
+            "name": "D.D. Trainer",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 1",
+            "species_and_others": [
+                "Fiend",
+                "Normal"
+            ],
+            "atk": "100",
+            "def": "2000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tA poor goblin that was sucked into a different dimension. However, he's doing his best with his new destiny.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5760"
+        },
+        {
+            "name": "Ojama Green",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 2",
+            "species_and_others": [
+                "Beast",
+                "Normal"
+            ],
+            "atk": "0",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tHe's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5761"
+        },
+        {
+            "name": "Archfiend Soldier",
+            "type": "Rare",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fiend",
+                "Normal"
+            ],
+            "atk": "1900",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAn expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5762"
+        },
+        {
+            "name": "Pandemonium Watchbear",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Beast",
+                "Effect"
+            ],
+            "atk": "1300",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAs long as this card remains face-up on your side of the field, \"Pandemonium\" on your side of the field is not destroyed by your opponent's card effects.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5763"
+        },
+        {
+            "name": "Sasuke Samurai #2",
+            "type": "Normal",
+            "attribute": "WIND",
+            "rank": "Level 1",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "200",
+            "def": "300",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn, during your Main Phase, you can pay 800 Life Points. If you do this, until the End Phase, Spell and Trap Cards cannot be activated.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5764"
+        },
+        {
+            "name": "Dark Scorpion - Gorg the Strong",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:●Target 1 monster your opponent controls; return that target to the top of the Deck.●Send the top card of their Deck to the Graveyard.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5765"
+        },
+        {
+            "name": "Dark Scorpion - Meanae the Thorn",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:●Add 1 \"Dark Scorpion\" card from your Deck to your hand.●Target 1 \"Dark Scorpion\" card in your Graveyard; add that target to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5766"
+        },
+        {
+            "name": "Outstanding Dog Marron",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 1",
+            "species_and_others": [
+                "Beast",
+                "Effect"
+            ],
+            "atk": "100",
+            "def": "100",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is sent to your Graveyard, add it to your Deck and shuffle it.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5767"
+        },
+        {
+            "name": "Great Maju Garzett",
+            "type": "Rare",
+            "attribute": "DARK",
+            "rank": "Level 6",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "0",
+            "def": "0",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe ATK of this card becomes twice the original ATK of 1 monster that you Tributed for the Tribute Summon of this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5768"
+        },
+        {
+            "name": "Iron Blacksmith Kotetsu",
+            "type": "Normal",
+            "attribute": "FIRE",
+            "rank": "Level 2",
+            "species_and_others": [
+                "Beast-Warrior",
+                "Flip",
+                "Effect"
+            ],
+            "atk": "500",
+            "def": "500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tFLIP: Add 1 Equip Spell from your Deck to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5769"
+        },
+        {
+            "name": "Goblin of Greed",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAs long as this card remains face-up on your side of the field, neither player can activate an effect by discarding from his/her hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5770"
+        },
+        {
+            "name": "Mefist the Infernal General",
+            "type": "Rare",
+            "attribute": "DARK",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "1800",
+            "def": "1700",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. When this card inflicts Battle Damage to your opponent's Life Points, discard 1 card randomly from your opponent's hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5771"
+        },
+        {
+            "name": "Vilepawn Archfiend",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 2",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "1200",
+            "def": "200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. As long as this card remains on the field, your opponent cannot attack any Archfiend Monster Card on your side of the field except \"Vilepawn Archfiend\".\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5772"
+        },
+        {
+            "name": "Shadowknight Archfiend",
+            "type": "Normal",
+            "attribute": "WIND",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "2000",
+            "def": "1600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe controller of this card pays 900 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. The Battle Damage this card inflicts to your opponent is halved.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5773"
+        },
+        {
+            "name": "Darkbishop Archfiend",
+            "type": "Rare",
+            "attribute": "WATER",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "300",
+            "def": "1400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When an Archfiend Monster Card on your side of the field is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 1, 3, or 6, negate the effect and destroy the opponent's card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5774"
+        },
+        {
+            "name": "Desrook Archfiend",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "1100",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. When a \"Terrorking Archfiend\" on your side of the field is destroyed and sent to the Graveyard, you can send this card from your hand to the Graveyard to Special Summon the \"Terrorking Archfiend\".\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5775"
+        },
+        {
+            "name": "Infernalqueen Archfiend",
+            "type": "Rare",
+            "attribute": "FIRE",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "900",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 2 or 5, negate the effect and destroy the opponent's card. As long as this card remains on the field, during each Standby Phase, increase the ATK of 1 Archfiend Monster Card by 1000 points until the End Phase.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5776"
+        },
+        {
+            "name": "Terrorking Archfiend",
+            "type": "Super Rare",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "2000",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card cannot be Normal Summoned or Flip Summoned unless you have an Archfiend Monster Card on your side of the field. The controller of this card pays 800 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 2 or 5, negate the effect and destroy the opponent's card. The effects of an Effect Monster that this card destroyed as a result of battle are negated.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5777"
+        },
+        {
+            "name": "Skull Archfiend of Lightning",
+            "type": "Ultra Rare",
+            "attribute": "DARK",
+            "rank": "Level 6",
+            "species_and_others": [
+                "Fiend",
+                "Effect"
+            ],
+            "atk": "2500",
+            "def": "1200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDuring each of your Standby Phases, you must pay 500 Life Points (this is not optional), or this card is destroyed. Before resolving an opponent's card effect that targets this card, roll a six-sided die, negate the effect if you roll 1, 3, or 6, and if you do, destroy that card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5778"
+        },
+        {
+            "name": "Metallizing Parasite - Lunatite",
+            "type": "Rare",
+            "attribute": "WATER",
+            "rank": "Level 7",
+            "species_and_others": [
+                "Aqua",
+                "Union",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn, during your Main Phase, if you control this monster on the field, you can equip it to a face-up monster on your side of the field as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, that monster will be unaffected by the effects of Spell Cards controlled by your opponent. (1 monster can only be equipped with 1 Union Monster at a time. If the monster that this card is equipped to is destroyed as a result of battle, destroy this card instead.)\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5779"
+        },
+        {
+            "name": "Tsukuyomi",
+            "type": "Rare",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Spellcaster",
+                "Spirit",
+                "Effect"
+            ],
+            "atk": "1100",
+            "def": "1400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be Special Summoned. If this card is Normal Summoned or flipped face-up: Target 1 face-up monster on the field; change that target to face-down Defense Position. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5780"
+        },
+        {
+            "name": "Mudora",
+            "type": "Super Rare",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fairy",
+                "Effect"
+            ],
+            "atk": "1500",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card gains 200 ATK for each Fairy-Type monster in your Graveyard.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5356"
+        },
+        {
+            "name": "Keldo",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fairy",
+                "Effect"
+            ],
+            "atk": "1200",
+            "def": "1600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is destroyed and sent to the Graveyard as a result of battle, select 2 cards from your opponent's Graveyard, add them to your opponent's Deck and the Deck is then shuffled.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5351"
+        },
+        {
+            "name": "Kelbek",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fairy",
+                "Effect"
+            ],
+            "atk": "1500",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tA monster that attacks this card returns to its owner's hand. Damage calculation is applied normally.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5361"
+        },
+        {
+            "name": "Zolga",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fairy",
+                "Effect"
+            ],
+            "atk": "1700",
+            "def": "1200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen a monster is Tribute Summoned by Tributing this card: The owner of this card gains 2000 Life Points.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5363"
+        },
+        {
+            "name": "Agido",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fairy",
+                "Effect"
+            ],
+            "atk": "1500",
+            "def": "1300",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is destroyed and sent to the Graveyard as a result of battle, roll a six-sided die. You can Special Summon 1 Fairy-Type monster from your Graveyard whose Level is equal to the number rolled. (If the result is 6, you can Special Summon a Level 6 or higher monster.)\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5366"
+        },
+        {
+            "name": "Legendary Flame Lord",
+            "type": "Rare",
+            "attribute": "FIRE",
+            "rank": "Level 7",
+            "species_and_others": [
+                "Spellcaster",
+                "Ritual",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "2000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card can only be Ritual Summoned with the Ritual Spell Card, \"Incandescent Ordeal\". You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand. Each time you or your opponent activates 1 Spell Card, put 1 Spell Counter on this card. Remove 3 Spell Counters from this card to destroy all monsters on the field except this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5781"
+        },
+        {
+            "name": "Dark Master - Zorc",
+            "type": "Super Rare",
+            "attribute": "DARK",
+            "rank": "Level 8",
+            "species_and_others": [
+                "Fiend",
+                "Ritual",
+                "Effect"
+            ],
+            "atk": "2700",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can Ritual Summon this card with \"Contract with the Dark Master\". Once per turn: You can roll a six-sided die, then destroy all monsters your opponent controls if you roll 1 or 2, destroy 1 monster your opponent controls if you roll 3, 4 or 5, or destroy all monsters you control if you roll 6.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5782"
+        },
+        {
+            "name": "Spell Reproduction",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSend 2 Spells from your hand to the GY, then target 1 Spell in your GY; add it to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5354"
+        },
+        {
+            "name": "Dragged Down into the Grave",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tBoth players reveal their hands, each chooses 1 card from their opponent's hand, then you discard the chosen cards from both players' hands, then both players draw 1 card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5352"
+        },
+        {
+            "name": "Incandescent Ordeal",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card is used to Ritual Summon \"Legendary Flame Lord\". You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5783"
+        },
+        {
+            "name": "Contract with the Abyss",
+            "type": "Rare",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card can be used to Ritual Summon any DARK Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5784"
+        },
+        {
+            "name": "Contract with the Dark Master",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card is used to Ritual Summon \"Dark Master - Zorc\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5785"
+        },
+        {
+            "name": "Falling Down",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate this card by targeting an opponent's monster; equip this card to it. Take control of it. Destroy this card unless you control an \"Archfiend\" card. During each of your opponent's Standby Phases: You take 800 damage.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5786"
+        },
+        {
+            "name": "Checkmate",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTribute 1 Archfiend monster on your side of the field. During this turn, 1 \"Terrorking Archfiend\" on your side of the field can attack your opponent's Life Points directly.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5787"
+        },
+        {
+            "name": "Cestus of Dagla",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tEquip only to a Fairy-Type monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5357"
+        },
+        {
+            "name": "Final Countdown",
+            "type": "Limited",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tPay 2000 Life Points. After 20 turns have passed after you activate this card (counting the turn you activate this card as the 1st turn), you win the Duel.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5788"
+        },
+        {
+            "name": "Archfiend's Oath",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn: You can pay 500 Life Points, then declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5789"
+        },
+        {
+            "name": "Mustering of the Dark Scorpions",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf you control a face-up \"Don Zaloog\": You can Special Summon any number of \"Dark Scorpion\" monsters from your hand, but only 1 copy of each.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5790"
+        },
+        {
+            "name": "Pandemonium",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tNeither player has to pay Life Points during the Standby Phase for \"Archfiend\" monsters. Each time a player's \"Archfiend\" monster(s) is destroyed and sent to the Graveyard, except by battle, that player can add 1 \"Archfiend\" monster from their Deck to their hand with a lower Level than the destroyed card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5791"
+        },
+        {
+            "name": "Altar for Tribute",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSelect 1 monster on your side of the field and send it to the Graveyard. Increase your Life Points by an amount equal to the original ATK of the monster.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5792"
+        },
+        {
+            "name": "Frozen Soul",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5793"
+        },
+        {
+            "name": "Battle-Scarred",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSelect 1 Archfiend monster on your side of the field to activate this card. Your opponent also pays the same Life Points that you pay for the selected monster during the Standby Phase. If this card is removed from the field, destroy the selected monster. When the selected monster is removed from the field, destroy this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5794"
+        },
+        {
+            "name": "Dark Scorpion Combination",
+            "type": "Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can only activate this card when there are \"Don Zaloog\", \"Cliff the Trap Remover\", \"Dark Scorpion - Chick the Yellow\", \"Dark Scorpion - Gorg the Strong\", and \"Dark Scorpion - Meanae the Thorn\" face-up on your side of the field. During this turn, any of these 5 cards can attack your opponent's Life Points directly. In that case, the Battle Damage inflicted to your opponent by each of those cards becomes 400 points.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5795"
+        },
+        {
+            "name": "Archfiend's Roar",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tPay 500 Life Points, then target 1 \"Archfiend\" monster in your Graveyard; Special Summon that target. It cannot be Tributed. Destroy it during the End Phase of this turn.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5796"
+        },
+        {
+            "name": "Dice Re-Roll",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOne time, during the rest of this turn, if either player(s) rolls a die (or dice), you can have the player(s) re-roll. (You can only gain this effect once per turn.)\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5797"
+        },
+        {
+            "name": "Spell Vanishing",
+            "type": "Super Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDiscard 2 cards from your hand. Negate the activation of a Spell Card and destroy it. Also, look at your opponent's hand and Deck and if you find any Spell Cards of the same name as the destroyed Spell Card, send all of them to the Graveyard.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5798"
+        },
+        {
+            "name": "Sakuretsu Armor",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen an opponent's monster declares an attack: Target the attacking monster; destroy that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5799"
+        },
+        {
+            "name": "Ray of Hope",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAdd 2 LIGHT monsters from your Graveyard to your Deck and shuffle it.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5800"
+        },
+        {
+            "name": "Blast Held by a Tribute",
+            "type": "Ultra Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen an opponent's monster that was Tribute Summoned declares an attack: Destroy as many face-up Attack Position monsters they control as possible, and if you do, inflict 1000 damage to your opponent.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5365"
+        },
+        {
+            "name": "Judgment of Anubis",
+            "type": "Secret Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen your opponent activates a Spell Card that would destroy a Spell/Trap Card(s) on the field: Discard 1 card; negate the activation, and if you do, destroy it, then you can destroy 1 face-up monster your opponent controls, and if you do that, inflict damage to your opponent equal to the destroyed monster's ATK on the field.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5232"
+        }
+    ]
+}

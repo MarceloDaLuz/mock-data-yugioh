@@ -1,0 +1,316 @@
+{
+    "date": "12/10/2019 19:28:16",
+    "title": "DUELIST PACK  ZANE TRUESDALE ",
+    "card": [
+        {
+            "name": "Cyber Dragon",
+            "type": "Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "2100",
+            "def": "1600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf only your opponent controls a monster, you can Special Summon this card (from your hand).\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6390"
+        },
+        {
+            "name": "Cyber Barrier Dragon",
+            "type": "Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 6",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "800",
+            "def": "2800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Attack Reflector Unit\". Once per turn, while this card is in Attack Position, your opponent's next attack is negated.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6568"
+        },
+        {
+            "name": "Cyber Laser Dragon",
+            "type": "Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 7",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "2400",
+            "def": "1800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Photon Generator Unit\". Once per turn, you can destroy 1 monster with ATK or DEF equal to or higher than the ATK of this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6569"
+        },
+        {
+            "name": "Proto-Cyber Dragon",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "1100",
+            "def": "600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis card's name becomes \"Cyber Dragon\" while on the field.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6588"
+        },
+        {
+            "name": "Cyber Kirin",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "300",
+            "def": "800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can Tribute this card to make any effect damage you take this turn 0.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6662"
+        },
+        {
+            "name": "Cyber Phoenix",
+            "type": "Normal",
+            "attribute": "FIRE",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "1200",
+            "def": "1600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhile this card is in Attack Position, negate any Spell/Trap effects that target 1 Machine monster you control (and no other cards). When this card is destroyed by battle and sent to the GY: You can draw 1 card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6663"
+        },
+        {
+            "name": "Cyberdark Horn",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "800",
+            "def": "800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6830"
+        },
+        {
+            "name": "Cyberdark Edge",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "800",
+            "def": "800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. This card can attack directly. If it does using this effect, its ATK is halved during damage calculation only. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6831"
+        },
+        {
+            "name": "Cyberdark Keel",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "800",
+            "def": "800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. If this card destroys an opponent's monster by battle: Inflict 300 damage to your opponent. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6832"
+        },
+        {
+            "name": "Infernal Dragon",
+            "type": "Ultra Rare",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Dragon",
+                "Effect"
+            ],
+            "atk": "2000",
+            "def": "0",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per turn, during the End Phase, if this card attacked this turn: Destroy this card. When this card on the field is destroyed and sent to the GY: You can Tribute 1 monster; Special Summon this card from the GY.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6944"
+        },
+        {
+            "name": "Cyber Twin Dragon",
+            "type": "Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 8",
+            "species_and_others": [
+                "Machine",
+                "Fusion",
+                "Effect"
+            ],
+            "atk": "2800",
+            "def": "2100",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t\"Cyber Dragon\" + \"Cyber Dragon\"A Fusion Summon of this card can only be done with the above Fusion Materials. This card can make a second attack during each Battle Phase.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6396"
+        },
+        {
+            "name": "Cyber End Dragon",
+            "type": "Rare",
+            "attribute": "LIGHT",
+            "rank": "Level 10",
+            "species_and_others": [
+                "Machine",
+                "Fusion",
+                "Effect"
+            ],
+            "atk": "4000",
+            "def": "2800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"A Fusion Summon of this card can only be done with the above Fusion Materials. If this card attacks a Defense Position monster, inflict piercing battle damage.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6397"
+        },
+        {
+            "name": "Chimeratech Overdragon",
+            "type": "Rare",
+            "attribute": "DARK",
+            "rank": "Level 9",
+            "species_and_others": [
+                "Machine",
+                "Fusion",
+                "Effect"
+            ],
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t\"Cyber Dragon\" + 1+ Machine monstersMust be Fusion Summoned. If this card is Fusion Summoned: Send all other cards you control to the GY. The original ATK/DEF of this card each become equal to the number of Fusion Materials used for its Fusion Summon x 800. Each turn, this card can attack your opponent's monsters a number of times equal to the number of Fusion Materials used for its Fusion Summon.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6734"
+        },
+        {
+            "name": "Cyberdark Dragon",
+            "type": "Super Rare",
+            "attribute": "DARK",
+            "rank": "Level 8",
+            "species_and_others": [
+                "Machine",
+                "Fusion",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t\"Cyberdark Horn\" + \"Cyberdark Edge\" + \"Cyberdark Keel\"This monster cannot be Special Summoned except by Fusion Summon. When this monster is Special Summoned, select 1 Dragon-Type monster in your Graveyard and equip it to this card. This card gains ATK equal to the equipped card's ATK. This card gains 100 ATK for each Monster Card in your Graveyard. If this card would be destroyed by battle, the equipped monster is destroyed instead.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6833"
+        },
+        {
+            "name": "Mystical Space Typhoon",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 Spell/Trap on the field; destroy that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4909"
+        },
+        {
+            "name": "Limiter Removal",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDouble the ATK of all Machine monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5129"
+        },
+        {
+            "name": "De-Fusion",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5118"
+        },
+        {
+            "name": "Creature Swap",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tEach player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5162"
+        },
+        {
+            "name": "Different Dimension Capsule",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSelect 1 card from your Deck and remove it from play face-down. During your 2nd Standby Phase after activation, destroy this card and add the removed card to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5532"
+        },
+        {
+            "name": "Power Bond",
+            "type": "Rare",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tFusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6398"
+        },
+        {
+            "name": "Photon Generator Unit",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTribute 2 \"Cyber Dragons\". Special Summon 1 \"Cyber Laser Dragon\" from your hand, Deck, or Graveyard.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6577"
+        },
+        {
+            "name": "Overload Fusion",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tFusion Summon 1 DARK Machine Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6783"
+        },
+        {
+            "name": "Future Fusion",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDuring your 1st Standby Phase after this card's activation: Show 1 Fusion Monster in your Extra Deck and send the Fusion Materials listed on it from your Main Deck to the GY. During your 2nd Standby Phase after this card's activation: Fusion Summon 1 Fusion Monster from your Extra Deck with the same name as the monster you showed, and target it with this card. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6782"
+        },
+        {
+            "name": "Ruthless Denial",
+            "type": "Super Rare",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSelect 1 monster you control and send it to the Graveyard, and send 1 random card in your opponent's hand to the Graveyard.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6945"
+        },
+        {
+            "name": "Call of the Haunted",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4989"
+        },
+        {
+            "name": "Trap Jammer",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen your opponent activates a Trap Card during the Battle Phase: Negate the activation, and if you do, destroy it.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5921"
+        },
+        {
+            "name": "Attack Reflector Unit",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTribute 1 \"Cyber Dragon\". Special Summon 1 \"Cyber Barrier Dragon\" from your hand or Deck.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6581"
+        },
+        {
+            "name": "Return Soul",
+            "type": "Super Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate only during the End Phase. You can return up to 3 monsters destroyed this turn from the Graveyard to their owners' Decks.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6946"
+        },
+        {
+            "name": "Damage Polarizer",
+            "type": "Ultra Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate only when an effect that inflicts damage is activated. Negate its activation and effect, and each player draws 1 card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6947"
+        },
+        {
+            "name": "Fusion Guard",
+            "type": "Super Rare",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate only when an effect that inflicts damage is activated. Negate its activation and effect, and randomly send 1 Fusion Monster from your Extra Deck to the Graveyard.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6948"
+        }
+    ]
+}

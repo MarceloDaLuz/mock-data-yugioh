@@ -1,0 +1,468 @@
+{
+    "date": "12/10/2019 19:29:34",
+    "title": "5D's STARTER DECK 2008",
+    "card": [
+        {
+            "name": "Tune Warrior",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Warrior",
+                "Tuner",
+                "Normal"
+            ],
+            "atk": "1600",
+            "def": "200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7684"
+        },
+        {
+            "name": "Water Spirit",
+            "type": "Normal",
+            "attribute": "WATER",
+            "rank": "Level 1",
+            "species_and_others": [
+                "Aqua",
+                "Tuner",
+                "Normal"
+            ],
+            "atk": "400",
+            "def": "1200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThis ancient water spirit haunts the glacial monoliths of Antarctica. It has the power to seep into the pores of any substance and chill it to the bone.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7685"
+        },
+        {
+            "name": "Axe Raider",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Warrior",
+                "Normal"
+            ],
+            "atk": "1700",
+            "def": "1150",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tAn axe-wielding monster of tremendous strength and agility.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4084"
+        },
+        {
+            "name": "Dark Blade",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Warrior",
+                "Normal"
+            ],
+            "atk": "1800",
+            "def": "1500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThey say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5581"
+        },
+        {
+            "name": "Charcoal Inpachi",
+            "type": "Normal",
+            "attribute": "FIRE",
+            "rank": "Level 1",
+            "species_and_others": [
+                "Pyro",
+                "Normal"
+            ],
+            "atk": "100",
+            "def": "2100",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tA wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6093"
+        },
+        {
+            "name": "Woodborg Inpachi",
+            "type": "Normal",
+            "attribute": "FIRE",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Machine",
+                "Normal"
+            ],
+            "atk": "500",
+            "def": "2500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe new form of the enigmatic Inpachi, remodeled by cutting-edge Dark World technology. Maneuverability has been sacrificed for strong armor, which is considered more important.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6172"
+        },
+        {
+            "name": "Spiral Serpent",
+            "type": "Normal",
+            "attribute": "WATER",
+            "rank": "Level 8",
+            "species_and_others": [
+                "SeaSerpent",
+                "Normal"
+            ],
+            "atk": "2900",
+            "def": "2900",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6962"
+        },
+        {
+            "name": "Renge, Gatekeeper of Dark World",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Fiend",
+                "Normal"
+            ],
+            "atk": "100",
+            "def": "2100",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tHis renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7192"
+        },
+        {
+            "name": "Atlantean Pikeman",
+            "type": "Normal",
+            "attribute": "WATER",
+            "rank": "Level 2",
+            "species_and_others": [
+                "SeaSerpent",
+                "Normal"
+            ],
+            "atk": "1400",
+            "def": "0",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7366"
+        },
+        {
+            "name": "Sonic Chick",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 1",
+            "species_and_others": [
+                "WingedBeast",
+                "Effect"
+            ],
+            "atk": "300",
+            "def": "300",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tCannot be destroyed by battle with a monster that has 1900 or more ATK.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7686"
+        },
+        {
+            "name": "Junk Synchron",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Warrior",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1300",
+            "def": "500",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7687"
+        },
+        {
+            "name": "Speed Warrior",
+            "type": "Normal",
+            "attribute": "WIND",
+            "rank": "Level 2",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "900",
+            "def": "400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tOnce per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7688"
+        },
+        {
+            "name": "Magna Drago",
+            "type": "Normal",
+            "attribute": "FIRE",
+            "rank": "Level 2",
+            "species_and_others": [
+                "Dragon",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "1400",
+            "def": "600",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf this card inflicts battle damage to your opponent: It gains 200 ATK.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7689"
+        },
+        {
+            "name": "Frequency Magician",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 2",
+            "species_and_others": [
+                "Spellcaster",
+                "Tuner",
+                "Effect"
+            ],
+            "atk": "800",
+            "def": "400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7690"
+        },
+        {
+            "name": "Copycat",
+            "type": "Normal",
+            "attribute": "LIGHT",
+            "rank": "Level 1",
+            "species_and_others": [
+                "Spellcaster",
+                "Effect"
+            ],
+            "atk": "0",
+            "def": "0",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK/DEF become equal to that monster's original ATK/DEF.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4795"
+        },
+        {
+            "name": "UFO Turtle",
+            "type": "Normal",
+            "attribute": "FIRE",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Machine",
+                "Effect"
+            ],
+            "atk": "1400",
+            "def": "1200",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck, in face-up Attack Position.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4917"
+        },
+        {
+            "name": "Mystic Tomato",
+            "type": "Normal",
+            "attribute": "DARK",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Plant",
+                "Effect"
+            ],
+            "atk": "1400",
+            "def": "1100",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen this card is destroyed by battle and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4930"
+        },
+        {
+            "name": "Marauding Captain",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 3",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1200",
+            "def": "400",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYour opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5318"
+        },
+        {
+            "name": "Exiled Force",
+            "type": "Normal",
+            "attribute": "EARTH",
+            "rank": "Level 4",
+            "species_and_others": [
+                "Warrior",
+                "Effect"
+            ],
+            "atk": "1000",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can Tribute this card to target 1 monster on the field; destroy that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5323"
+        },
+        {
+            "name": "Synchro Boost",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tThe equipped monster gains 500 ATK, and its Level is increased by 1.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7691"
+        },
+        {
+            "name": "Synchro Blast Wave",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tIf you control a Synchro Monster: Target 1 monster your opponent controls; destroy that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7692"
+        },
+        {
+            "name": "Synchronized Realm",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tEach time you Synchro Summon a Synchro monster, inflict 500 damage to your opponent.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7693"
+        },
+        {
+            "name": "The Warrior Returning Alive",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 Warrior-Type monster in your Graveyard; add that target to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5330"
+        },
+        {
+            "name": "Smashing Ground",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDestroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5905"
+        },
+        {
+            "name": "Rush Recklessly",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tTarget 1 face-up monster on the field; it gains 700 ATK until the end of this turn.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4905"
+        },
+        {
+            "name": "Monster Reincarnation",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDiscard 1 card, then target 1 monster in your GY; add it to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6213"
+        },
+        {
+            "name": "Lightning Vortex",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tDiscard 1 card; destroy all face-up monsters your opponent controls.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5217"
+        },
+        {
+            "name": "Twister",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tPay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6999"
+        },
+        {
+            "name": "Double Summon",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYou can conduct 2 Normal Summons/Sets this turn, not just 1.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7219"
+        },
+        {
+            "name": "Symbols of Duty",
+            "type": "Normal",
+            "attribute": "SPELL",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tSend 1 Normal Monster you control to the Graveyard, then target 1 monster in either player's Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7223"
+        },
+        {
+            "name": "Threatening Roar",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tYour opponent cannot declare an attack this turn.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6278"
+        },
+        {
+            "name": "Scrap-Iron Scarecrow",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen an opponent's monster declares an attack: Target the attacking monster; negate the attack, also, after that, Set this card face-down instead of sending it to the GY.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7694"
+        },
+        {
+            "name": "Miniaturize",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate this card by targeting 1 face-up monster on the field with more than 1000 original ATK that has a Level; its Level is reduced by 1, also it loses 1000 ATK. When that monster leaves the field, destroy this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7695"
+        },
+        {
+            "name": "Spellbinding Circle",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4355"
+        },
+        {
+            "name": "Backup Soldier",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhile there are 5 or more monsters in your Graveyard: Target up to 3 non-Effect Monsters with 1500 or less ATK in your Graveyard; add them to your hand.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4953"
+        },
+        {
+            "name": "Trap Hole",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4836"
+        },
+        {
+            "name": "Sakuretsu Armor",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen an opponent's monster declares an attack: Target the attacking monster; destroy that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5799"
+        },
+        {
+            "name": "Divine Wrath",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6217"
+        },
+        {
+            "name": "Seven Tools of the Bandit",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tWhen a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4863"
+        },
+        {
+            "name": "Birthright",
+            "type": "Normal",
+            "attribute": "TRAP",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\tActivate this card by targeting 1 Normal Monster in your Graveyard; Special Summon that target in face-up Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7013"
+        },
+        {
+            "name": "Junk Warrior",
+            "type": "Ultra Rare",
+            "attribute": "DARK",
+            "rank": "Level 5",
+            "species_and_others": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2300",
+            "def": "1300",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t\"Junk Synchron\" + 1 or more non-Tuner monstersIf this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7696"
+        },
+        {
+            "name": "Gaia Knight, the Force of Earth",
+            "type": "Super Rare",
+            "attribute": "EARTH",
+            "rank": "Level 6",
+            "species_and_others": [
+                "Warrior",
+                "Synchro"
+            ],
+            "atk": "2600",
+            "def": "800",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t1 Tuner + 1 or more non-Tuner monsters\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7697"
+        },
+        {
+            "name": "Colossal Fighter",
+            "type": "Super Rare",
+            "attribute": "DARK",
+            "rank": "Level 8",
+            "species_and_others": [
+                "Warrior",
+                "Synchro",
+                "Effect"
+            ],
+            "atk": "2800",
+            "def": "1000",
+            "description": "\n\t\t\n\t\t\t\t\t\t\t\t\t\t1 Tuner + 1 or more non-Tuner monstersThis card gains 100 ATK for every Warrior-Type monster in any Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can target 1 Warrior-Type monster in either Graveyard; Special Summon that target.\n\t\t\n\t\t\t\t\t\t\t\t\t",
+            "link": "www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7698"
+        }
+    ]
+}
